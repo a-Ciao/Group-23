@@ -21,7 +21,7 @@ jobs:
 
     strategy:
       matrix:
-        release: [R2020a, R2020b, R2021a, R2021b, R2022a, R20200b, R2023a, R2023b, R2024a]
+        release: [R2020a, R2020b, R2021a, R2021b, R2022a, R2020b, R2023a, R2023b, R2024a]
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
